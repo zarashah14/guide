@@ -8,7 +8,7 @@ function Footer() {
     <div className='grid lg:grid-cols-3 bg-[#3B66B0] gap-4 lg:place-items-center px-4 relative py-10'>
          
          <div className='flex flex-col justify-between p-4'>
-            <h1 className='text-white text-xl'>About us</h1>
+            <h1 className='text-white text-xl'>About us Folow us</h1>
             <p className='text-white text-sm'>Digital treatment planning can be extremely time consuming and technically challenging. With more than 20 years of experience from advisors in Italy, Germany, the US, China, Israel, and Canada and an excellent design team, however, we offer treatment planning for you.Digital treatment planning can be extremely time consuming and technically challenging. With more than 20 years of experience from advisors in Italy, </p>
          </div>
 
