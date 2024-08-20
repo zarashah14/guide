@@ -10,7 +10,7 @@ function Guidemiagtok() {
          
          <div className='flex flex-col m-8 gap-2'>
 
-          <h1 className='text-3xl font-bold flex flex-row gap-2'>GuideMia <span className='text-[#3B66B0] text-3xl font-bold'>gTok</span><span><img src={Emoji}/></span></h1>
+          <h1 className='text-3xl font-bold flex flex-row gap-2'>GuideMia Helo I am Zara<span className='text-[#3B66B0] text-3xl font-bold'>gTok</span><span><img src={Emoji}/></span></h1>
             <p className=''>GuideMia gTok is a peer-to-peer communication software. It can send texts and files, <br></br>and make audio/video calls as well. You and your contact can see each other’s screen
             <br></br> through desktop sharing, and discuss design cases with audio and video calls. You can <br></br>also sharing your life moments with file sharing. With peer-to-peer technology and 
             <br></br>end-to-end encryption, gTok does not use any server, and your data is never visible to <br>
